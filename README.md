@@ -1,2 +1,3 @@
-# ASTREP1
-First repository to learn python
+#Unit assessments
+1. Creating a Github repository
+2. 
