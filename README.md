@@ -1,8 +1,8 @@
 #Unit assessments
 1. Creating a Github repository
-2. Calc.py
-3. grades.py
-4. loops.py
-5. functions.py & listops.py
-6. filehandling.py & dictionnaries.py
-7. modules.py & bugg_code.py
+3. Calc.py
+4. grades.py
+5. loops.py
+6. functions.py & listops.py
+7. filehandling.py & dictionnaries.py
+8. modules.py & bugg_code.py
