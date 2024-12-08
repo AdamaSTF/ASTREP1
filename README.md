@@ -5,4 +5,4 @@
 5. loops.py
 6. functions.py & listops.py
 7. filehandling.py & dictionnaries.py
-8. modules.py & bugg_code.py
+8. modules.py & bugg_code.py 
