@@ -1,8 +1,8 @@
 #Unit assessments
 1. Creating a Github repository
-2. assignment 2
-3. assignment 3
-4. assignment 4
-5.assignment 5 & 6
-6. assignment 7 & 8
-7. assignment 9 & 10
+2. Calc.py
+3. grades.py
+4. loops.py
+5. functions.py & listops.py
+6. filehandling.py & dictionnaries.py
+7. modules.py & bugg_code.py
