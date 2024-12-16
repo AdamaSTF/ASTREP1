@@ -3,6 +3,9 @@
 2. Calc.py
 3. grades.py
 4. loops.py
-5. functions.py & listops.py
-6. filehandling.py & dictionnaries.py
-7. modules.py & buggy_code.py 
+5. functions.py 
+6. listops.py
+7. filehandling.py
+8. dictionnaries.py
+9. modules.py
+10. buggy_code.py 
